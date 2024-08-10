@@ -1,0 +1,103 @@
+{
+    "Users": [
+        {
+            "id": 1,
+            "name": "skfdj",
+            "email": "ksfkj",
+            "password": "sdkl",
+            "age": 40,
+            "gender": "male",
+            "weight": 80,
+            "height": 90,
+            "contact": "sdf"
+        },
+        {
+            "id": 2,
+            "name": "ksks",
+            "email": "paapa@gmail.com",
+            "password": "$2b$12$xxRMvmED6cfdQA1TmnE1De1sW5364ngE4MzXTgnrz6S00ZBpAQeda",
+            "age": 30,
+            "gender": "male",
+            "weight": 30,
+            "height": 3,
+            "contact": "ka"
+        },
+        {
+            "id": 3,
+            "name": "ksks",
+            "email": "wiewo@gmail.com",
+            "password": "$2b$12$StK1Uuk91f6mrkTyf25yRuN5Hnw3QBthok6ynnV8V.L8UXTI/DXBW",
+            "age": 90,
+            "gender": "male",
+            "weight": 90,
+            "height": 90,
+            "contact": "kasd"
+        },
+        {
+            "id": 4,
+            "name": "palsodi",
+            "email": "kskdie@gmail.com",
+            "password": "$2b$12$rCkECQGNBwIj7dMSZV2SC.aF42MCsCywoWKfJfoWiHdy94nuRFiXS",
+            "age": 90,
+            "gender": "male",
+            "weight": 90,
+            "height": 904,
+            "contact": "ksdkie"
+        },
+        {
+            "id": 5,
+            "name": "ksiejis",
+            "email": "ksiej@gmail.com",
+            "password": "$2b$12$wBTN0BuqE4lSMaLJLFm6dO6nt24xOmStYr.Iu0Aoz8kI7OakXBx2a",
+            "age": 0,
+            "gender": "male",
+            "weight": 89,
+            "height": 98,
+            "contact": "ksdije"
+        },
+        {
+            "id": 6,
+            "name": "paingchan",
+            "email": "aung@gmail.com",
+            "password": "$2b$12$uhzW3UQEgnnoq3OpkWfif.x7PP1jumBC5KJcDa1kBy7NsKsUDfT/a",
+            "age": 30,
+            "gender": "male",
+            "weight": 10,
+            "height": 20,
+            "contact": "ieoisjei ksiejfi "
+        },
+        {
+            "id": 7,
+            "name": "paiej",
+            "email": "audie@gmail.com",
+            "password": "$2b$12$HNub4dEDJH1bWcC3ysfONeaaG3ITHOHcgSqAH9BEjvP5aJmNPmZRK",
+            "age": 90,
+            "gender": "male",
+            "weight": 90,
+            "height": 90,
+            "contact": "kadsfje"
+        },
+        {
+            "id": 8,
+            "name": "paingchan",
+            "email": "123@gmail.com",
+            "password": "$2b$12$XLEFjZnJ8rOha2l5D1EX8OioI8PpwfyOwQphXzFXQUa3kRSQkcXI2",
+            "age": 18,
+            "gender": "male",
+            "weight": 90,
+            "height": 170,
+            "contact": "uieus"
+        },
+        {
+            "id": 9,
+            "name": "123",
+            "email": "1234@gmail.com",
+            "password": "$2b$12$n5hTlBB7m2hDY7e1H6YN9uEAvuKDLhxksj26yTgi8SE6tUJOCkOb.",
+            "age": 90,
+            "gender": "male",
+            "weight": 90,
+            "height": 90,
+            "contact": "90"
+        }
+    ]
+}
